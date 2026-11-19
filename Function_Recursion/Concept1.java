@@ -4,6 +4,8 @@
 
 package Function_Recursion;
 
+///////// prototype ////////////
+
 import java.util.Scanner;
 
 public class Concept1 {
@@ -11,7 +13,6 @@ public class Concept1 {
         System.out.println("Your Full Name Is = "+str);
     }
     public static void main(String[] args) {
-        ///////// prototype ////////////
         try(Scanner sc = new Scanner(System.in)){
             System.out.print("Enter Your Name = ");
             String name = sc.nextLine();

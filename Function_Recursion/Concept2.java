@@ -26,7 +26,7 @@ public class Concept2 {
             int num2 = sc.nextInt();
 
             System.out.println("The summation of two numbers are = "+sum(num1,num2));
-            multi(num1, num2);
+            multi(num1,num2);
         }
     }
 }
